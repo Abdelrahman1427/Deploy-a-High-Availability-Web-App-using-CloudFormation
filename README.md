@@ -2,7 +2,9 @@
 
 This project is for deploying a high availability web app using cloud formation
 
-our output was a link for WebAppLBDNSName http://my-se-webap-17t362b9ap3td-1910689758.us-east-1.elb.amazonaws.com/
+our output was a link for WebAppLBDNSName :
+
+    http://my-se-webap-17t362b9ap3td-1910689758.us-east-1.elb.amazonaws.com/
 
 1- Delete all stacks if there any
 
